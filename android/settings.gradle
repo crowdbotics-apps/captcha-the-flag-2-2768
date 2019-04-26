@@ -1,0 +1,3 @@
+rootProject.name = 'captcha_the_flag_2_2768'
+
+include ':app'
